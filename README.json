@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:13:39Z",
+                "last_commit": "2026-08-24T21:34:36Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
                 "stars": 14958
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:46:22Z",
+                "last_commit": "2026-08-24T23:44:05Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12573
+                "stars": 12575
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:05:32Z",
+                "last_commit": "2026-08-24T20:23:39Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-24T14:08:02Z",
+                "last_commit": "2026-08-24T18:00:12Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
                 "stars": 2397
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-22T19:27:27Z",
+                "last_commit": "2026-08-24T18:35:48Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 920
@@ -246,7 +246,7 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:13:39Z",
+                "last_commit": "2026-08-24T21:34:36Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
                 "stars": 14958
@@ -276,10 +276,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:46:22Z",
+                "last_commit": "2026-08-24T23:44:05Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12573
+                "stars": 12575
               }
             },
             {
@@ -321,7 +321,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:05:32Z",
+                "last_commit": "2026-08-24T20:23:39Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -336,7 +336,7 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-24T14:08:02Z",
+                "last_commit": "2026-08-24T18:00:12Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
                 "stars": 2397
@@ -351,7 +351,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-22T19:27:27Z",
+                "last_commit": "2026-08-24T18:35:48Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 920
@@ -463,7 +463,7 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:13:39Z",
+                "last_commit": "2026-08-24T21:34:36Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
                 "stars": 14958
@@ -493,10 +493,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:46:22Z",
+                "last_commit": "2026-08-24T23:44:05Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12573
+                "stars": 12575
               }
             },
             {
@@ -538,7 +538,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:05:32Z",
+                "last_commit": "2026-08-24T20:23:39Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -553,7 +553,7 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-24T14:08:02Z",
+                "last_commit": "2026-08-24T18:00:12Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
                 "stars": 2397
@@ -568,7 +568,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-22T19:27:27Z",
+                "last_commit": "2026-08-24T18:35:48Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 920
@@ -680,7 +680,7 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:13:39Z",
+                "last_commit": "2026-08-24T21:34:36Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
                 "stars": 14958
@@ -710,10 +710,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:46:22Z",
+                "last_commit": "2026-08-24T23:44:05Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12573
+                "stars": 12575
               }
             },
             {
@@ -740,7 +740,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:05:32Z",
+                "last_commit": "2026-08-24T20:23:39Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -755,7 +755,7 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-24T14:08:02Z",
+                "last_commit": "2026-08-24T18:00:12Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
                 "stars": 2397
@@ -770,7 +770,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-22T19:27:27Z",
+                "last_commit": "2026-08-24T18:35:48Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 920
@@ -916,7 +916,7 @@
             "archived": false,
             "id": 306977038,
             "language": "Java",
-            "last_commit": "2026-08-24T14:06:07Z",
+            "last_commit": "2026-08-24T23:08:00Z",
             "owner": "OpenLineage",
             "repo": "OpenLineage",
             "stars": 2619
@@ -1021,10 +1021,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:46:22Z",
+                "last_commit": "2026-08-24T23:44:05Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12573
+                "stars": 12575
               }
             }
           ],
@@ -1058,7 +1058,7 @@
                 "archived": false,
                 "id": 306977038,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:06:07Z",
+                "last_commit": "2026-08-24T23:08:00Z",
                 "owner": "OpenLineage",
                 "repo": "OpenLineage",
                 "stars": 2619
@@ -1168,7 +1168,7 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:13:39Z",
+                "last_commit": "2026-08-24T21:34:36Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
                 "stars": 14958
@@ -1190,7 +1190,7 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-24T14:08:02Z",
+                "last_commit": "2026-08-24T18:00:12Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
                 "stars": 2397
@@ -1234,7 +1234,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:05:32Z",
+                "last_commit": "2026-08-24T20:23:39Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -1330,7 +1330,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-22T19:27:27Z",
+                "last_commit": "2026-08-24T18:35:48Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 920
@@ -1358,10 +1358,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:46:22Z",
+                "last_commit": "2026-08-24T23:44:05Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12573
+                "stars": 12575
               }
             }
           ],
@@ -1418,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:15.430Z",
+    "last_updated": "2026-08-24T23:53:19.414Z",
     "original_repository": "opendatadiscovery/awesome-data-catalogs",
     "original_repository_id": 385832397,
     "original_repository_sha": "35af5ab0779df32623a219ef73f69e15440ce742",
