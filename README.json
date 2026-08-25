@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:34:36Z",
+                "last_commit": "2026-08-25T05:54:34Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14958
+                "stars": 14959
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:44:05Z",
+                "last_commit": "2026-08-25T05:46:38Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12575
+                "stars": 12577
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:02:16Z",
+                "last_commit": "2026-08-25T04:54:52Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3186
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:34:36Z",
+                "last_commit": "2026-08-25T05:54:34Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14958
+                "stars": 14959
               }
             },
             {
@@ -276,10 +276,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:44:05Z",
+                "last_commit": "2026-08-25T05:46:38Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12575
+                "stars": 12577
               }
             },
             {
@@ -306,7 +306,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:02:16Z",
+                "last_commit": "2026-08-25T04:54:52Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3186
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:34:36Z",
+                "last_commit": "2026-08-25T05:54:34Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14958
+                "stars": 14959
               }
             },
             {
@@ -493,10 +493,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:44:05Z",
+                "last_commit": "2026-08-25T05:46:38Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12575
+                "stars": 12577
               }
             },
             {
@@ -523,7 +523,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:02:16Z",
+                "last_commit": "2026-08-25T04:54:52Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3186
@@ -680,10 +680,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:34:36Z",
+                "last_commit": "2026-08-25T05:54:34Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14958
+                "stars": 14959
               }
             },
             {
@@ -710,10 +710,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:44:05Z",
+                "last_commit": "2026-08-25T05:46:38Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12575
+                "stars": 12577
               }
             },
             {
@@ -1021,10 +1021,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:44:05Z",
+                "last_commit": "2026-08-25T05:46:38Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12575
+                "stars": 12577
               }
             }
           ],
@@ -1168,10 +1168,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:34:36Z",
+                "last_commit": "2026-08-25T05:54:34Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14958
+                "stars": 14959
               }
             }
           ],
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:02:16Z",
+                "last_commit": "2026-08-25T04:54:52Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3186
@@ -1286,7 +1286,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "apache/hamilton",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1358,10 +1358,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:44:05Z",
+                "last_commit": "2026-08-25T05:46:38Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12575
+                "stars": 12577
               }
             }
           ],
@@ -1418,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:53:19.414Z",
+    "last_updated": "2026-08-25T06:06:27.915Z",
     "original_repository": "opendatadiscovery/awesome-data-catalogs",
     "original_repository_id": 385832397,
     "original_repository_sha": "35af5ab0779df32623a219ef73f69e15440ce742",
