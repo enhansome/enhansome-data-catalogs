@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:44:12Z",
+                "last_commit": "2026-08-27T11:27:02Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14988
+                "stars": 14996
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:06:13Z",
+                "last_commit": "2026-08-27T11:14:35Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12589
+                "stars": 12591
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T01:26:03Z",
+                "last_commit": "2026-08-27T10:45:26Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2398
+                "stars": 2399
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-26T15:27:51Z",
+                "last_commit": "2026-08-27T05:39:45Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -164,10 +164,10 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-26T12:31:25Z",
+                "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2575
+                "stars": 2576
               }
             }
           ],
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:44:12Z",
+                "last_commit": "2026-08-27T11:27:02Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14988
+                "stars": 14996
               }
             },
             {
@@ -276,10 +276,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:06:13Z",
+                "last_commit": "2026-08-27T11:14:35Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12589
+                "stars": 12591
               }
             },
             {
@@ -306,7 +306,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T01:26:03Z",
+                "last_commit": "2026-08-27T10:45:26Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -339,7 +339,7 @@
                 "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2398
+                "stars": 2399
               }
             },
             {
@@ -351,7 +351,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-26T15:27:51Z",
+                "last_commit": "2026-08-27T05:39:45Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -381,10 +381,10 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-26T12:31:25Z",
+                "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2575
+                "stars": 2576
               }
             },
             {
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:44:12Z",
+                "last_commit": "2026-08-27T11:27:02Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14988
+                "stars": 14996
               }
             },
             {
@@ -493,10 +493,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:06:13Z",
+                "last_commit": "2026-08-27T11:14:35Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12589
+                "stars": 12591
               }
             },
             {
@@ -523,7 +523,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T01:26:03Z",
+                "last_commit": "2026-08-27T10:45:26Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -556,7 +556,7 @@
                 "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2398
+                "stars": 2399
               }
             },
             {
@@ -568,7 +568,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-26T15:27:51Z",
+                "last_commit": "2026-08-27T05:39:45Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -598,10 +598,10 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-26T12:31:25Z",
+                "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -646,7 +646,7 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2575
+                "stars": 2576
               }
             }
           ],
@@ -680,10 +680,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:44:12Z",
+                "last_commit": "2026-08-27T11:27:02Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14988
+                "stars": 14996
               }
             },
             {
@@ -710,10 +710,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:06:13Z",
+                "last_commit": "2026-08-27T11:14:35Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12589
+                "stars": 12591
               }
             },
             {
@@ -758,7 +758,7 @@
                 "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2398
+                "stars": 2399
               }
             },
             {
@@ -770,7 +770,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-26T15:27:51Z",
+                "last_commit": "2026-08-27T05:39:45Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -800,10 +800,10 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-26T12:31:25Z",
+                "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -848,7 +848,7 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2575
+                "stars": 2576
               }
             }
           ],
@@ -949,7 +949,7 @@
             "last_commit": "2026-08-26T19:10:22Z",
             "owner": "json-schema-org",
             "repo": "json-schema-spec",
-            "stars": 5127
+            "stars": 5128
           }
         },
         {
@@ -979,7 +979,7 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2575
+            "stars": 2576
           }
         }
       ],
@@ -1021,10 +1021,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:06:13Z",
+                "last_commit": "2026-08-27T11:14:35Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12589
+                "stars": 12591
               }
             }
           ],
@@ -1080,10 +1080,10 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-26T12:31:25Z",
+                "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2136
+                "stars": 2137
               }
             }
           ],
@@ -1168,10 +1168,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:44:12Z",
+                "last_commit": "2026-08-27T11:27:02Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14988
+                "stars": 14996
               }
             }
           ],
@@ -1193,7 +1193,7 @@
                 "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2398
+                "stars": 2399
               }
             }
           ],
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T01:26:03Z",
+                "last_commit": "2026-08-27T10:45:26Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -1296,7 +1296,7 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2575
+                "stars": 2576
               }
             },
             {
@@ -1311,7 +1311,7 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2575
+                "stars": 2576
               }
             }
           ],
@@ -1330,7 +1330,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-26T15:27:51Z",
+                "last_commit": "2026-08-27T05:39:45Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -1358,10 +1358,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:06:13Z",
+                "last_commit": "2026-08-27T11:14:35Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12589
+                "stars": 12591
               }
             }
           ],
@@ -1418,9 +1418,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:58:54.755Z",
-    "original_repository": "opendatadiscovery/awesome-data-catalogs",
-    "original_repository_id": 385832397,
+    "last_updated": "2026-08-27T11:31:52.838Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 385832397,
+      "language": null,
+      "last_commit": "2025-08-14T14:10:59Z",
+      "owner": "opendatadiscovery",
+      "repo": "awesome-data-catalogs",
+      "stars": 1062
+    },
     "original_repository_sha": "35af5ab0779df32623a219ef73f69e15440ce742",
     "enhanced_repository": "enhansome/enhansome-data-catalogs",
     "enhanced_repository_description": null,
