@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:34:58Z",
+                "last_commit": "2026-08-27T04:44:12Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14966
+                "stars": 14988
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:32:54Z",
+                "last_commit": "2026-08-27T03:06:13Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12578
+                "stars": 12589
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 139907613,
                 "language": "Java",
-                "last_commit": "2026-08-11T22:59:23Z",
+                "last_commit": "2026-08-26T19:51:39Z",
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:25:04Z",
+                "last_commit": "2026-08-27T01:26:03Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:27:35Z",
+                "last_commit": "2026-08-26T08:28:03Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-25T06:41:27Z",
+                "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2397
+                "stars": 2398
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-25T18:39:42Z",
+                "last_commit": "2026-08-26T15:27:51Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:32:52Z",
+                "last_commit": "2026-08-26T12:31:25Z",
                 "owner": "apache",
                 "repo": "atlas",
                 "stars": 2136
@@ -194,10 +194,10 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:41:33Z",
+                "last_commit": "2026-08-27T03:21:40Z",
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5102
+                "stars": 5106
               }
             },
             {
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:34:58Z",
+                "last_commit": "2026-08-27T04:44:12Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14966
+                "stars": 14988
               }
             },
             {
@@ -276,10 +276,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:32:54Z",
+                "last_commit": "2026-08-27T03:06:13Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12578
+                "stars": 12589
               }
             },
             {
@@ -291,7 +291,7 @@
                 "archived": false,
                 "id": 139907613,
                 "language": "Java",
-                "last_commit": "2026-08-11T22:59:23Z",
+                "last_commit": "2026-08-26T19:51:39Z",
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
@@ -306,7 +306,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:25:04Z",
+                "last_commit": "2026-08-27T01:26:03Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -321,7 +321,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:27:35Z",
+                "last_commit": "2026-08-26T08:28:03Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -336,10 +336,10 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-25T06:41:27Z",
+                "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2397
+                "stars": 2398
               }
             },
             {
@@ -351,7 +351,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-25T18:39:42Z",
+                "last_commit": "2026-08-26T15:27:51Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -381,7 +381,7 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:32:52Z",
+                "last_commit": "2026-08-26T12:31:25Z",
                 "owner": "apache",
                 "repo": "atlas",
                 "stars": 2136
@@ -396,10 +396,10 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:41:33Z",
+                "last_commit": "2026-08-27T03:21:40Z",
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5102
+                "stars": 5106
               }
             },
             {
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:34:58Z",
+                "last_commit": "2026-08-27T04:44:12Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14966
+                "stars": 14988
               }
             },
             {
@@ -493,10 +493,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:32:54Z",
+                "last_commit": "2026-08-27T03:06:13Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12578
+                "stars": 12589
               }
             },
             {
@@ -508,7 +508,7 @@
                 "archived": false,
                 "id": 139907613,
                 "language": "Java",
-                "last_commit": "2026-08-11T22:59:23Z",
+                "last_commit": "2026-08-26T19:51:39Z",
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
@@ -523,7 +523,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:25:04Z",
+                "last_commit": "2026-08-27T01:26:03Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -538,7 +538,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:27:35Z",
+                "last_commit": "2026-08-26T08:28:03Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -553,10 +553,10 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-25T06:41:27Z",
+                "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2397
+                "stars": 2398
               }
             },
             {
@@ -568,7 +568,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-25T18:39:42Z",
+                "last_commit": "2026-08-26T15:27:51Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -598,7 +598,7 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:32:52Z",
+                "last_commit": "2026-08-26T12:31:25Z",
                 "owner": "apache",
                 "repo": "atlas",
                 "stars": 2136
@@ -628,10 +628,10 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:41:33Z",
+                "last_commit": "2026-08-27T03:21:40Z",
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5102
+                "stars": 5106
               }
             },
             {
@@ -680,10 +680,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:34:58Z",
+                "last_commit": "2026-08-27T04:44:12Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14966
+                "stars": 14988
               }
             },
             {
@@ -710,10 +710,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:32:54Z",
+                "last_commit": "2026-08-27T03:06:13Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12578
+                "stars": 12589
               }
             },
             {
@@ -725,7 +725,7 @@
                 "archived": false,
                 "id": 139907613,
                 "language": "Java",
-                "last_commit": "2026-08-11T22:59:23Z",
+                "last_commit": "2026-08-26T19:51:39Z",
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
@@ -740,7 +740,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:27:35Z",
+                "last_commit": "2026-08-26T08:28:03Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -755,10 +755,10 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-25T06:41:27Z",
+                "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2397
+                "stars": 2398
               }
             },
             {
@@ -770,7 +770,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-25T18:39:42Z",
+                "last_commit": "2026-08-26T15:27:51Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -800,7 +800,7 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:32:52Z",
+                "last_commit": "2026-08-26T12:31:25Z",
                 "owner": "apache",
                 "repo": "atlas",
                 "stars": 2136
@@ -830,10 +830,10 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:41:33Z",
+                "last_commit": "2026-08-27T03:21:40Z",
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5102
+                "stars": 5106
               }
             },
             {
@@ -916,10 +916,10 @@
             "archived": false,
             "id": 306977038,
             "language": "Java",
-            "last_commit": "2026-08-25T16:13:21Z",
+            "last_commit": "2026-08-26T10:14:30Z",
             "owner": "OpenLineage",
             "repo": "OpenLineage",
-            "stars": 2623
+            "stars": 2627
           }
         },
         {
@@ -946,10 +946,10 @@
             "archived": false,
             "id": 37983912,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T19:42:59Z",
+            "last_commit": "2026-08-26T19:10:22Z",
             "owner": "json-schema-org",
             "repo": "json-schema-spec",
-            "stars": 5126
+            "stars": 5127
           }
         },
         {
@@ -1021,10 +1021,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:32:54Z",
+                "last_commit": "2026-08-27T03:06:13Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12578
+                "stars": 12589
               }
             }
           ],
@@ -1043,7 +1043,7 @@
                 "archived": false,
                 "id": 139907613,
                 "language": "Java",
-                "last_commit": "2026-08-11T22:59:23Z",
+                "last_commit": "2026-08-26T19:51:39Z",
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
@@ -1058,10 +1058,10 @@
                 "archived": false,
                 "id": 306977038,
                 "language": "Java",
-                "last_commit": "2026-08-25T16:13:21Z",
+                "last_commit": "2026-08-26T10:14:30Z",
                 "owner": "OpenLineage",
                 "repo": "OpenLineage",
-                "stars": 2623
+                "stars": 2627
               }
             }
           ],
@@ -1080,7 +1080,7 @@
                 "archived": false,
                 "id": 98013453,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:32:52Z",
+                "last_commit": "2026-08-26T12:31:25Z",
                 "owner": "apache",
                 "repo": "atlas",
                 "stars": 2136
@@ -1102,10 +1102,10 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:41:33Z",
+                "last_commit": "2026-08-27T03:21:40Z",
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5102
+                "stars": 5106
               }
             }
           ],
@@ -1168,10 +1168,10 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:34:58Z",
+                "last_commit": "2026-08-27T04:44:12Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14966
+                "stars": 14988
               }
             }
           ],
@@ -1190,10 +1190,10 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-25T06:41:27Z",
+                "last_commit": "2026-08-26T09:56:16Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2397
+                "stars": 2398
               }
             }
           ],
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:25:04Z",
+                "last_commit": "2026-08-27T01:26:03Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
@@ -1234,7 +1234,7 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:27:35Z",
+                "last_commit": "2026-08-26T08:28:03Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
                 "stars": 2417
@@ -1330,7 +1330,7 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-25T18:39:42Z",
+                "last_commit": "2026-08-26T15:27:51Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
@@ -1358,10 +1358,10 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:32:54Z",
+                "last_commit": "2026-08-27T03:06:13Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12578
+                "stars": 12589
               }
             }
           ],
@@ -1418,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:54:16.878Z",
+    "last_updated": "2026-08-27T04:58:54.755Z",
     "original_repository": "opendatadiscovery/awesome-data-catalogs",
     "original_repository_id": 385832397,
     "original_repository_sha": "35af5ab0779df32623a219ef73f69e15440ce742",
