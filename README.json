@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-08T09:16:25Z",
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1425
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:27:02Z",
+                "last_commit": "2026-08-28T07:03:06Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14996
-              }
+                "stars": 15007
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-20T19:59:18Z",
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4782
-              }
+                "stars": 4783
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:14:35Z",
+                "last_commit": "2026-08-28T06:52:20Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12591
-              }
+                "stars": 12600
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:45:26Z",
+                "last_commit": "2026-08-28T06:27:32Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -104,11 +110,12 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:28:03Z",
+                "last_commit": "2026-08-27T15:14:50Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2417
-              }
+                "stars": 2419
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -119,11 +126,12 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-26T09:56:16Z",
+                "last_commit": "2026-08-27T13:09:27Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2399
-              }
+                "stars": 2400
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -134,11 +142,12 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T05:39:45Z",
+                "last_commit": "2026-08-27T21:20:09Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "magda-io",
                 "repo": "magda",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -167,8 +177,9 @@
                 "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2137
-              }
+                "stars": 2138
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "grai-io",
                 "repo": "grai-core",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -194,11 +206,12 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:21:40Z",
+                "last_commit": "2026-08-27T20:26:05Z",
                 "owner": "ckan",
                 "repo": "ckan",
                 "stars": 5106
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -212,8 +225,9 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2576
-              }
+                "stars": 2580
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "The group includes built-in AI capabilities essential for Generative AI applications, enhancing metadata through semantic enrichment and context awareness. It supports Agent-to-Agent (A2A) protocols and Retrieval-Augmented Generation (RAG) systems by facilitating semantic understanding, vectorization, and natural language interactions. These capabilities align closely with Model Context Protocol (MCP), enabling standardized metadata exchange and interoperability across GenAI applications, making it possible for AI agents and RAG systems to leverage rich, structured metadata efficiently.",
@@ -234,8 +248,9 @@
                 "last_commit": "2026-07-08T09:16:25Z",
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1425
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -246,11 +261,12 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:27:02Z",
+                "last_commit": "2026-08-28T07:03:06Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14996
-              }
+                "stars": 15007
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -264,8 +280,9 @@
                 "last_commit": "2026-08-20T19:59:18Z",
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4782
-              }
+                "stars": 4783
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -276,11 +293,12 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:14:35Z",
+                "last_commit": "2026-08-28T06:52:20Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12591
-              }
+                "stars": 12600
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -306,11 +325,12 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:45:26Z",
+                "last_commit": "2026-08-28T06:27:32Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -321,11 +341,12 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:28:03Z",
+                "last_commit": "2026-08-27T15:14:50Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2417
-              }
+                "stars": 2419
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -336,11 +357,12 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-26T09:56:16Z",
+                "last_commit": "2026-08-27T13:09:27Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2399
-              }
+                "stars": 2400
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -351,11 +373,12 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T05:39:45Z",
+                "last_commit": "2026-08-27T21:20:09Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "magda-io",
                 "repo": "magda",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -384,8 +408,9 @@
                 "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2137
-              }
+                "stars": 2138
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -396,11 +421,12 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:21:40Z",
+                "last_commit": "2026-08-27T20:26:05Z",
                 "owner": "ckan",
                 "repo": "ckan",
                 "stars": 5106
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -414,8 +440,9 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2576
-              }
+                "stars": 2580
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "grai-io",
                 "repo": "grai-core",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "Features enabling a semantic bridge between business concepts and technical metadata. These capabilities enable precise mapping between business terms and data assets, fostering accurate, context-aware query generation.",
@@ -451,8 +479,9 @@
                 "last_commit": "2026-07-08T09:16:25Z",
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1425
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -463,11 +492,12 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:27:02Z",
+                "last_commit": "2026-08-28T07:03:06Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14996
-              }
+                "stars": 15007
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -481,8 +511,9 @@
                 "last_commit": "2026-08-20T19:59:18Z",
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4782
-              }
+                "stars": 4783
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -493,11 +524,12 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:14:35Z",
+                "last_commit": "2026-08-28T06:52:20Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12591
-              }
+                "stars": 12600
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -523,11 +556,12 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:45:26Z",
+                "last_commit": "2026-08-28T06:27:32Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -538,11 +572,12 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:28:03Z",
+                "last_commit": "2026-08-27T15:14:50Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2417
-              }
+                "stars": 2419
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -553,11 +588,12 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-26T09:56:16Z",
+                "last_commit": "2026-08-27T13:09:27Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2399
-              }
+                "stars": 2400
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -568,11 +604,12 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T05:39:45Z",
+                "last_commit": "2026-08-27T21:20:09Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -587,7 +624,8 @@
                 "owner": "magda-io",
                 "repo": "magda",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -601,8 +639,9 @@
                 "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2137
-              }
+                "stars": 2138
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -617,7 +656,8 @@
                 "owner": "grai-io",
                 "repo": "grai-core",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -628,11 +668,12 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:21:40Z",
+                "last_commit": "2026-08-27T20:26:05Z",
                 "owner": "ckan",
                 "repo": "ckan",
                 "stars": 5106
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -646,8 +687,9 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2576
-              }
+                "stars": 2580
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "Core features providing detailed technical insights, query analytics, and usage patterns critical for metadata-informed query generation, optimization, and efficient GenAI-driven data interactions. Essential for automated database query generation, lineage tracking, and metadata-informed GenAI processes.",
@@ -668,8 +710,9 @@
                 "last_commit": "2026-07-08T09:16:25Z",
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1425
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -680,11 +723,12 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:27:02Z",
+                "last_commit": "2026-08-28T07:03:06Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14996
-              }
+                "stars": 15007
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -698,8 +742,9 @@
                 "last_commit": "2026-08-20T19:59:18Z",
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4782
-              }
+                "stars": 4783
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -710,11 +755,12 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:14:35Z",
+                "last_commit": "2026-08-28T06:52:20Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12591
-              }
+                "stars": 12600
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -729,7 +775,8 @@
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -740,11 +787,12 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:28:03Z",
+                "last_commit": "2026-08-27T15:14:50Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2417
-              }
+                "stars": 2419
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -755,11 +803,12 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-26T09:56:16Z",
+                "last_commit": "2026-08-27T13:09:27Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2399
-              }
+                "stars": 2400
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -770,11 +819,12 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T05:39:45Z",
+                "last_commit": "2026-08-27T21:20:09Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -789,7 +839,8 @@
                 "owner": "magda-io",
                 "repo": "magda",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -803,8 +854,9 @@
                 "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2137
-              }
+                "stars": 2138
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -819,7 +871,8 @@
                 "owner": "grai-io",
                 "repo": "grai-core",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -830,11 +883,12 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:21:40Z",
+                "last_commit": "2026-08-27T20:26:05Z",
                 "owner": "ckan",
                 "repo": "ckan",
                 "stars": 5106
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -848,8 +902,9 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2576
-              }
+                "stars": 2580
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "Essential features for maintaining data reliability, trustworthiness, observability, collaborative governance, and secure access management. Integral to ensuring metadata-driven AI operations remain accurate, dependable, securely managed, and compliant with sensitive data handling requirements.",
@@ -875,7 +930,8 @@
             "owner": "ckan",
             "repo": "ckanext-harvest",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         },
         {
           "node_type": "item",
@@ -890,7 +946,8 @@
             "owner": "ckan",
             "repo": "ckanext-qa",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         },
         {
           "node_type": "item",
@@ -905,7 +962,8 @@
             "owner": "ckan",
             "repo": "ckanext-archiver",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         },
         {
           "node_type": "item",
@@ -919,8 +977,9 @@
             "last_commit": "2026-08-26T10:14:30Z",
             "owner": "OpenLineage",
             "repo": "OpenLineage",
-            "stars": 2627
-          }
+            "stars": 2629
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         },
         {
           "node_type": "item",
@@ -935,7 +994,8 @@
             "owner": "opendatadiscovery",
             "repo": "opendatadiscovery-specification",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         },
         {
           "node_type": "item",
@@ -949,8 +1009,9 @@
             "last_commit": "2026-08-26T19:10:22Z",
             "owner": "json-schema-org",
             "repo": "json-schema-spec",
-            "stars": 5128
-          }
+            "stars": 5130
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         },
         {
           "node_type": "item",
@@ -965,7 +1026,8 @@
             "owner": "grai-io",
             "repo": "grai-core",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         },
         {
           "node_type": "item",
@@ -979,8 +1041,9 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2576
-          }
+            "stars": 2580
+          },
+          "first_seen": "2026-08-28T07:03:28.588Z"
         }
       ],
       "title": "High-Level Feature Comparison"
@@ -1002,8 +1065,9 @@
                 "last_commit": "2026-08-20T19:59:18Z",
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4782
-              }
+                "stars": 4783
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "A popular open-source data catalog for metadata management and data discovery originated from Lyft. Created by Amundsen maintainers, Stemma provides a managed version of an enterprise data catalog, inspired by Amundsen.",
@@ -1021,11 +1085,12 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:14:35Z",
+                "last_commit": "2026-08-28T06:52:20Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12591
-              }
+                "stars": 12600
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "DataHub is an open-source data catalog enabling data discovery, data observability and federated governance that originated from LinkedIn and is commercially offered by Acryl Data as a cloud-hosted SaaS offering.",
@@ -1047,7 +1112,8 @@
                 "owner": "MarquezProject",
                 "repo": "marquez",
                 "stars": 2268
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -1061,8 +1127,9 @@
                 "last_commit": "2026-08-26T10:14:30Z",
                 "owner": "OpenLineage",
                 "repo": "OpenLineage",
-                "stars": 2627
-              }
+                "stars": 2629
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "Marquez is an open-source data catalog for collection, aggregation, and visualization of a data ecosystem’s metadata originated from WeWork.",
@@ -1083,8 +1150,9 @@
                 "last_commit": "2026-08-27T05:46:11Z",
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2137
-              }
+                "stars": 2138
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "Apache Atlas is an open-source data catalog for metadata collection, governance, and data democratization.",
@@ -1102,11 +1170,12 @@
                 "archived": false,
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:21:40Z",
+                "last_commit": "2026-08-27T20:26:05Z",
                 "owner": "ckan",
                 "repo": "ckan",
                 "stars": 5106
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "CKAN is an open-source data catalog for data management, widely adopted by governments, NGOs, research institutions, and enterprises. It is actively maintained by a global community, with four of the eight core maintainers currently funded by Link Digital.",
@@ -1128,7 +1197,8 @@
                 "owner": "magda-io",
                 "repo": "magda",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "Magda is an open-source data catalog that features data discovery, metadata enrichment, and federation, focused on geodata.",
@@ -1149,8 +1219,9 @@
                 "last_commit": "2026-07-08T09:16:25Z",
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1425
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "First open-source data discovery and observability platform. ODD Platform is based on ODD Specification.",
@@ -1168,11 +1239,12 @@
                 "archived": false,
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:27:02Z",
+                "last_commit": "2026-08-28T07:03:06Z",
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 14996
-              }
+                "stars": 15007
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "OpenMetadata is the all-in-one platform for data collaboration, discovery, governance, lineage, and quality that lets you focus on building and analyzing.",
@@ -1190,11 +1262,12 @@
                 "archived": false,
                 "id": 401275197,
                 "language": "HTML",
-                "last_commit": "2026-08-26T09:56:16Z",
+                "last_commit": "2026-08-27T13:09:27Z",
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2399
-              }
+                "stars": 2400
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1212,11 +1285,12 @@
                 "archived": false,
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:45:26Z",
+                "last_commit": "2026-08-28T06:27:32Z",
                 "owner": "apache",
                 "repo": "gravitino",
                 "stars": 3188
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1234,11 +1308,12 @@
                 "archived": false,
                 "id": 321458274,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:28:03Z",
+                "last_commit": "2026-08-27T15:14:50Z",
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2417
-              }
+                "stars": 2419
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1260,7 +1335,8 @@
                 "owner": "grai-io",
                 "repo": "grai-core",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -1275,7 +1351,8 @@
                 "owner": "grai-io",
                 "repo": "grai-core",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1296,8 +1373,9 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2576
-              }
+                "stars": 2580
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             },
             {
               "node_type": "item",
@@ -1311,8 +1389,9 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2576
-              }
+                "stars": 2580
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": "A popular open-source framework for describing transformations that comes with a catalog (the Hamilton UI). The project originated from Stitch Fix. Created by Hamilton maintainers, Dagworks Inc. (YCW23) provides a managed version of the Hamilton UI in addition to self-hosted on-premise features.",
@@ -1330,11 +1409,12 @@
                 "archived": false,
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T05:39:45Z",
+                "last_commit": "2026-08-27T21:20:09Z",
                 "owner": "odpi",
                 "repo": "egeria",
                 "stars": 921
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1358,11 +1438,12 @@
                 "archived": false,
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:14:35Z",
+                "last_commit": "2026-08-28T06:52:20Z",
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12591
-              }
+                "stars": 12600
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1384,7 +1465,8 @@
                 "owner": "databand-ai",
                 "repo": "dbnd",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1406,7 +1488,8 @@
                 "owner": "IBM",
                 "repo": "watsonx-data",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T07:03:28.588Z"
             }
           ],
           "description": null,
@@ -1418,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:52.838Z",
+    "last_updated": "2026-08-28T07:03:28.588Z",
     "original_repository_info": {
       "archived": false,
       "id": 385832397,
@@ -1426,7 +1509,7 @@
       "last_commit": "2025-08-14T14:10:59Z",
       "owner": "opendatadiscovery",
       "repo": "awesome-data-catalogs",
-      "stars": 1062
+      "stars": 1063
     },
     "original_repository_sha": "35af5ab0779df32623a219ef73f69e15440ce742",
     "enhanced_repository": "enhansome/enhansome-data-catalogs",
