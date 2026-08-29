@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.",
+                "homepage": "https://opendatadiscovery.org",
                 "id": 383922649,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T09:16:25Z",
+                "open_issues": 125,
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "alerting",
+                  "bigdata",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-engineering",
+                  "data-exploration",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipelines",
+                  "data-platform",
+                  "data-profiling",
+                  "data-quality",
+                  "data-science",
+                  "datacatalog",
+                  "lineage",
+                  "metadata",
+                  "metadata-management",
+                  "observability",
+                  "oss"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -28,12 +54,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+                "homepage": "https://open-metadata.org",
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T07:03:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:56:56Z",
+                "open_issues": 833,
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 15007
+                "stars": 15022,
+                "topics": [
+                  "context",
+                  "context-layer",
+                  "data-catalog",
+                  "data-collaboration",
+                  "data-contracts",
+                  "data-discovery",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "datadiscovery",
+                  "dataquality",
+                  "mcp",
+                  "mcp-server",
+                  "metadata",
+                  "metadata-management",
+                  "ontologies",
+                  "ontologies-api",
+                  "semantics"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -44,12 +96,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+                "homepage": "https://www.amundsen.io/amundsen/",
                 "id": 186647681,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T19:59:18Z",
+                "open_issues": 66,
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4783
+                "stars": 4783,
+                "topics": [
+                  "amundsen",
+                  "data-catalog",
+                  "data-discovery",
+                  "linuxfoundation",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -60,12 +123,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Context Platform for your Data and AI Stack",
+                "homepage": "https://datahub.com",
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:36:50Z",
+                "open_issues": 1265,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12600
+                "stars": 12608,
+                "topics": [
+                  "agent-platform",
+                  "context-management",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-governance",
+                  "data-observability",
+                  "datahub",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -76,12 +153,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect, aggregate, and visualize a data ecosystem's metadata",
+                "homepage": "https://marquezproject.ai",
                 "id": 139907613,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:51:39Z",
+                "open_issues": 250,
                 "owner": "MarquezProject",
                 "repo": "marquez",
-                "stars": 2268
+                "stars": 2268,
+                "topics": [
+                  "data-dictionary",
+                  "data-discovery",
+                  "data-ecosystem-metadata",
+                  "data-governance",
+                  "data-lineage",
+                  "data-ops",
+                  "data-provenance",
+                  "marquez",
+                  "metadata",
+                  "metadata-service"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -92,12 +185,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+                "homepage": "https://gravitino.apache.org",
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-28T06:27:32Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:02:44Z",
+                "open_issues": 1056,
                 "owner": "apache",
                 "repo": "gravitino",
-                "stars": 3188
+                "stars": 3189,
+                "topics": [
+                  "ai-catalog",
+                  "data-catalog",
+                  "datalake",
+                  "federated-query",
+                  "lakehouse",
+                  "metadata",
+                  "metalake",
+                  "model-catalog",
+                  "opendatacatalog",
+                  "skycomputing",
+                  "stratosphere"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -108,12 +218,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Contracts engine for the modern data stack. https://www.soda.io",
+                "homepage": "https://go.soda.io/core-docs",
                 "id": 321458274,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:14:50Z",
+                "open_issues": 198,
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2419
+                "stars": 2420,
+                "topics": [
+                  "data-contracts",
+                  "data-engineering",
+                  "data-governance",
+                  "data-monitoring",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "data-quality-checks",
+                  "data-quality-monitoring",
+                  "data-quality-testing",
+                  "data-reliability",
+                  "data-testing",
+                  "data-unit-tests",
+                  "data-validation",
+                  "dataquality",
+                  "datatesting",
+                  "dbt",
+                  "pipeline-testing",
+                  "python",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -124,12 +260,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                "homepage": "https://www.elementary-data.com/",
                 "id": 401275197,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:09:27Z",
+                "open_issues": 24,
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2400
+                "stars": 2400,
+                "topics": [
+                  "analytics-engineer",
+                  "bigquery",
+                  "data-analysis",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipeline",
+                  "data-pipelines",
+                  "data-reliability",
+                  "data-warehouse",
+                  "dataops",
+                  "dbt",
+                  "dbt-artifacts",
+                  "dbt-packages",
+                  "lineage",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -140,12 +299,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Egeria core",
+                "homepage": "https://egeria-project.org",
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T21:20:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:05:58Z",
+                "open_issues": 40,
                 "owner": "odpi",
                 "repo": "egeria",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "data-engineering",
+                  "data-governance",
+                  "egeria",
+                  "governance",
+                  "hacktoberfest",
+                  "java",
+                  "linux-foundation",
+                  "metadata-management",
+                  "odpi",
+                  "odpi-egeria"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -156,12 +331,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A federated, open-source data catalog for all your big data and small data",
+                "homepage": "https://magda.io",
                 "id": 66343967,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T03:21:19Z",
+                "open_issues": 385,
                 "owner": "magda-io",
                 "repo": "magda",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "kubernetes",
+                  "nodejs",
+                  "open-data",
+                  "opensearch",
+                  "postgresql",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -172,12 +359,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond",
+                "homepage": "https://atlas.apache.org",
                 "id": 98013453,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T05:46:11Z",
+                "open_issues": 157,
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2138
+                "stars": 2138,
+                "topics": [
+                  "apache",
+                  "atlas",
+                  "docker",
+                  "graphdb",
+                  "java",
+                  "javascript",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -188,12 +388,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.grai.io",
                 "id": 501725302,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-01-30T20:28:25Z",
+                "open_issues": 51,
                 "owner": "grai-io",
                 "repo": "grai-core",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "data",
+                  "data-lineage",
+                  "data-science",
+                  "dataengineering",
+                  "datalineage",
+                  "dbt",
+                  "django",
+                  "fivetran",
+                  "hacktoberfest",
+                  "mssql",
+                  "mysql",
+                  "open-source",
+                  "parquet",
+                  "postgresql",
+                  "python",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -204,12 +427,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+                "homepage": "https://ckan.org/",
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:26:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:40:10Z",
+                "open_issues": 836,
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5106
+                "stars": 5106,
+                "topics": [
+                  "api",
+                  "catalog",
+                  "ckan",
+                  "ckanext",
+                  "data",
+                  "digitalpublicgoods",
+                  "dpg",
+                  "open-data",
+                  "python",
+                  "sdg16"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -220,12 +459,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+                "homepage": "https://hamilton.apache.org/",
                 "id": 605682921,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T04:38:48Z",
+                "open_issues": 156,
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2580
+                "stars": 2582,
+                "topics": [
+                  "dag",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "dataframe",
+                  "etl",
+                  "etl-framework",
+                  "etl-pipeline",
+                  "feature-engineering",
+                  "hacktoberfest",
+                  "lineage",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "orchestration",
+                  "pandas",
+                  "python",
+                  "rag",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -243,12 +507,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.",
+                "homepage": "https://opendatadiscovery.org",
                 "id": 383922649,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T09:16:25Z",
+                "open_issues": 125,
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "alerting",
+                  "bigdata",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-engineering",
+                  "data-exploration",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipelines",
+                  "data-platform",
+                  "data-profiling",
+                  "data-quality",
+                  "data-science",
+                  "datacatalog",
+                  "lineage",
+                  "metadata",
+                  "metadata-management",
+                  "observability",
+                  "oss"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -259,12 +549,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+                "homepage": "https://open-metadata.org",
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T07:03:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:56:56Z",
+                "open_issues": 833,
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 15007
+                "stars": 15022,
+                "topics": [
+                  "context",
+                  "context-layer",
+                  "data-catalog",
+                  "data-collaboration",
+                  "data-contracts",
+                  "data-discovery",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "datadiscovery",
+                  "dataquality",
+                  "mcp",
+                  "mcp-server",
+                  "metadata",
+                  "metadata-management",
+                  "ontologies",
+                  "ontologies-api",
+                  "semantics"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -275,12 +591,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+                "homepage": "https://www.amundsen.io/amundsen/",
                 "id": 186647681,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T19:59:18Z",
+                "open_issues": 66,
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4783
+                "stars": 4783,
+                "topics": [
+                  "amundsen",
+                  "data-catalog",
+                  "data-discovery",
+                  "linuxfoundation",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -291,12 +618,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Context Platform for your Data and AI Stack",
+                "homepage": "https://datahub.com",
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:36:50Z",
+                "open_issues": 1265,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12600
+                "stars": 12608,
+                "topics": [
+                  "agent-platform",
+                  "context-management",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-governance",
+                  "data-observability",
+                  "datahub",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -307,12 +648,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect, aggregate, and visualize a data ecosystem's metadata",
+                "homepage": "https://marquezproject.ai",
                 "id": 139907613,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:51:39Z",
+                "open_issues": 250,
                 "owner": "MarquezProject",
                 "repo": "marquez",
-                "stars": 2268
+                "stars": 2268,
+                "topics": [
+                  "data-dictionary",
+                  "data-discovery",
+                  "data-ecosystem-metadata",
+                  "data-governance",
+                  "data-lineage",
+                  "data-ops",
+                  "data-provenance",
+                  "marquez",
+                  "metadata",
+                  "metadata-service"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -323,12 +680,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+                "homepage": "https://gravitino.apache.org",
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-28T06:27:32Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:02:44Z",
+                "open_issues": 1056,
                 "owner": "apache",
                 "repo": "gravitino",
-                "stars": 3188
+                "stars": 3189,
+                "topics": [
+                  "ai-catalog",
+                  "data-catalog",
+                  "datalake",
+                  "federated-query",
+                  "lakehouse",
+                  "metadata",
+                  "metalake",
+                  "model-catalog",
+                  "opendatacatalog",
+                  "skycomputing",
+                  "stratosphere"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -339,12 +713,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Contracts engine for the modern data stack. https://www.soda.io",
+                "homepage": "https://go.soda.io/core-docs",
                 "id": 321458274,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:14:50Z",
+                "open_issues": 198,
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2419
+                "stars": 2420,
+                "topics": [
+                  "data-contracts",
+                  "data-engineering",
+                  "data-governance",
+                  "data-monitoring",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "data-quality-checks",
+                  "data-quality-monitoring",
+                  "data-quality-testing",
+                  "data-reliability",
+                  "data-testing",
+                  "data-unit-tests",
+                  "data-validation",
+                  "dataquality",
+                  "datatesting",
+                  "dbt",
+                  "pipeline-testing",
+                  "python",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -355,12 +755,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                "homepage": "https://www.elementary-data.com/",
                 "id": 401275197,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:09:27Z",
+                "open_issues": 24,
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2400
+                "stars": 2400,
+                "topics": [
+                  "analytics-engineer",
+                  "bigquery",
+                  "data-analysis",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipeline",
+                  "data-pipelines",
+                  "data-reliability",
+                  "data-warehouse",
+                  "dataops",
+                  "dbt",
+                  "dbt-artifacts",
+                  "dbt-packages",
+                  "lineage",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -371,12 +794,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Egeria core",
+                "homepage": "https://egeria-project.org",
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T21:20:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:05:58Z",
+                "open_issues": 40,
                 "owner": "odpi",
                 "repo": "egeria",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "data-engineering",
+                  "data-governance",
+                  "egeria",
+                  "governance",
+                  "hacktoberfest",
+                  "java",
+                  "linux-foundation",
+                  "metadata-management",
+                  "odpi",
+                  "odpi-egeria"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -387,12 +826,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A federated, open-source data catalog for all your big data and small data",
+                "homepage": "https://magda.io",
                 "id": 66343967,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T03:21:19Z",
+                "open_issues": 385,
                 "owner": "magda-io",
                 "repo": "magda",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "kubernetes",
+                  "nodejs",
+                  "open-data",
+                  "opensearch",
+                  "postgresql",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -403,12 +854,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond",
+                "homepage": "https://atlas.apache.org",
                 "id": 98013453,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T05:46:11Z",
+                "open_issues": 157,
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2138
+                "stars": 2138,
+                "topics": [
+                  "apache",
+                  "atlas",
+                  "docker",
+                  "graphdb",
+                  "java",
+                  "javascript",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -419,12 +883,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+                "homepage": "https://ckan.org/",
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:26:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:40:10Z",
+                "open_issues": 836,
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5106
+                "stars": 5106,
+                "topics": [
+                  "api",
+                  "catalog",
+                  "ckan",
+                  "ckanext",
+                  "data",
+                  "digitalpublicgoods",
+                  "dpg",
+                  "open-data",
+                  "python",
+                  "sdg16"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -435,12 +915,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+                "homepage": "https://hamilton.apache.org/",
                 "id": 605682921,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T04:38:48Z",
+                "open_issues": 156,
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2580
+                "stars": 2582,
+                "topics": [
+                  "dag",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "dataframe",
+                  "etl",
+                  "etl-framework",
+                  "etl-pipeline",
+                  "feature-engineering",
+                  "hacktoberfest",
+                  "lineage",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "orchestration",
+                  "pandas",
+                  "python",
+                  "rag",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -451,12 +956,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.grai.io",
                 "id": 501725302,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-01-30T20:28:25Z",
+                "open_issues": 51,
                 "owner": "grai-io",
                 "repo": "grai-core",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "data",
+                  "data-lineage",
+                  "data-science",
+                  "dataengineering",
+                  "datalineage",
+                  "dbt",
+                  "django",
+                  "fivetran",
+                  "hacktoberfest",
+                  "mssql",
+                  "mysql",
+                  "open-source",
+                  "parquet",
+                  "postgresql",
+                  "python",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -474,12 +1002,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.",
+                "homepage": "https://opendatadiscovery.org",
                 "id": 383922649,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T09:16:25Z",
+                "open_issues": 125,
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "alerting",
+                  "bigdata",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-engineering",
+                  "data-exploration",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipelines",
+                  "data-platform",
+                  "data-profiling",
+                  "data-quality",
+                  "data-science",
+                  "datacatalog",
+                  "lineage",
+                  "metadata",
+                  "metadata-management",
+                  "observability",
+                  "oss"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -490,12 +1044,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+                "homepage": "https://open-metadata.org",
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T07:03:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:56:56Z",
+                "open_issues": 833,
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 15007
+                "stars": 15022,
+                "topics": [
+                  "context",
+                  "context-layer",
+                  "data-catalog",
+                  "data-collaboration",
+                  "data-contracts",
+                  "data-discovery",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "datadiscovery",
+                  "dataquality",
+                  "mcp",
+                  "mcp-server",
+                  "metadata",
+                  "metadata-management",
+                  "ontologies",
+                  "ontologies-api",
+                  "semantics"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -506,12 +1086,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+                "homepage": "https://www.amundsen.io/amundsen/",
                 "id": 186647681,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T19:59:18Z",
+                "open_issues": 66,
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4783
+                "stars": 4783,
+                "topics": [
+                  "amundsen",
+                  "data-catalog",
+                  "data-discovery",
+                  "linuxfoundation",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -522,12 +1113,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Context Platform for your Data and AI Stack",
+                "homepage": "https://datahub.com",
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:36:50Z",
+                "open_issues": 1265,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12600
+                "stars": 12608,
+                "topics": [
+                  "agent-platform",
+                  "context-management",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-governance",
+                  "data-observability",
+                  "datahub",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -538,12 +1143,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect, aggregate, and visualize a data ecosystem's metadata",
+                "homepage": "https://marquezproject.ai",
                 "id": 139907613,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:51:39Z",
+                "open_issues": 250,
                 "owner": "MarquezProject",
                 "repo": "marquez",
-                "stars": 2268
+                "stars": 2268,
+                "topics": [
+                  "data-dictionary",
+                  "data-discovery",
+                  "data-ecosystem-metadata",
+                  "data-governance",
+                  "data-lineage",
+                  "data-ops",
+                  "data-provenance",
+                  "marquez",
+                  "metadata",
+                  "metadata-service"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -554,12 +1175,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+                "homepage": "https://gravitino.apache.org",
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-28T06:27:32Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:02:44Z",
+                "open_issues": 1056,
                 "owner": "apache",
                 "repo": "gravitino",
-                "stars": 3188
+                "stars": 3189,
+                "topics": [
+                  "ai-catalog",
+                  "data-catalog",
+                  "datalake",
+                  "federated-query",
+                  "lakehouse",
+                  "metadata",
+                  "metalake",
+                  "model-catalog",
+                  "opendatacatalog",
+                  "skycomputing",
+                  "stratosphere"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -570,12 +1208,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Contracts engine for the modern data stack. https://www.soda.io",
+                "homepage": "https://go.soda.io/core-docs",
                 "id": 321458274,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:14:50Z",
+                "open_issues": 198,
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2419
+                "stars": 2420,
+                "topics": [
+                  "data-contracts",
+                  "data-engineering",
+                  "data-governance",
+                  "data-monitoring",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "data-quality-checks",
+                  "data-quality-monitoring",
+                  "data-quality-testing",
+                  "data-reliability",
+                  "data-testing",
+                  "data-unit-tests",
+                  "data-validation",
+                  "dataquality",
+                  "datatesting",
+                  "dbt",
+                  "pipeline-testing",
+                  "python",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -586,12 +1250,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                "homepage": "https://www.elementary-data.com/",
                 "id": 401275197,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:09:27Z",
+                "open_issues": 24,
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2400
+                "stars": 2400,
+                "topics": [
+                  "analytics-engineer",
+                  "bigquery",
+                  "data-analysis",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipeline",
+                  "data-pipelines",
+                  "data-reliability",
+                  "data-warehouse",
+                  "dataops",
+                  "dbt",
+                  "dbt-artifacts",
+                  "dbt-packages",
+                  "lineage",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -602,12 +1289,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Egeria core",
+                "homepage": "https://egeria-project.org",
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T21:20:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:05:58Z",
+                "open_issues": 40,
                 "owner": "odpi",
                 "repo": "egeria",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "data-engineering",
+                  "data-governance",
+                  "egeria",
+                  "governance",
+                  "hacktoberfest",
+                  "java",
+                  "linux-foundation",
+                  "metadata-management",
+                  "odpi",
+                  "odpi-egeria"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -618,12 +1321,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A federated, open-source data catalog for all your big data and small data",
+                "homepage": "https://magda.io",
                 "id": 66343967,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T03:21:19Z",
+                "open_issues": 385,
                 "owner": "magda-io",
                 "repo": "magda",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "kubernetes",
+                  "nodejs",
+                  "open-data",
+                  "opensearch",
+                  "postgresql",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -634,12 +1349,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond",
+                "homepage": "https://atlas.apache.org",
                 "id": 98013453,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T05:46:11Z",
+                "open_issues": 157,
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2138
+                "stars": 2138,
+                "topics": [
+                  "apache",
+                  "atlas",
+                  "docker",
+                  "graphdb",
+                  "java",
+                  "javascript",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -650,12 +1378,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.grai.io",
                 "id": 501725302,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-01-30T20:28:25Z",
+                "open_issues": 51,
                 "owner": "grai-io",
                 "repo": "grai-core",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "data",
+                  "data-lineage",
+                  "data-science",
+                  "dataengineering",
+                  "datalineage",
+                  "dbt",
+                  "django",
+                  "fivetran",
+                  "hacktoberfest",
+                  "mssql",
+                  "mysql",
+                  "open-source",
+                  "parquet",
+                  "postgresql",
+                  "python",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -666,12 +1417,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+                "homepage": "https://ckan.org/",
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:26:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:40:10Z",
+                "open_issues": 836,
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5106
+                "stars": 5106,
+                "topics": [
+                  "api",
+                  "catalog",
+                  "ckan",
+                  "ckanext",
+                  "data",
+                  "digitalpublicgoods",
+                  "dpg",
+                  "open-data",
+                  "python",
+                  "sdg16"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -682,12 +1449,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+                "homepage": "https://hamilton.apache.org/",
                 "id": 605682921,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T04:38:48Z",
+                "open_issues": 156,
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2580
+                "stars": 2582,
+                "topics": [
+                  "dag",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "dataframe",
+                  "etl",
+                  "etl-framework",
+                  "etl-pipeline",
+                  "feature-engineering",
+                  "hacktoberfest",
+                  "lineage",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "orchestration",
+                  "pandas",
+                  "python",
+                  "rag",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -705,12 +1497,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.",
+                "homepage": "https://opendatadiscovery.org",
                 "id": 383922649,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T09:16:25Z",
+                "open_issues": 125,
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "alerting",
+                  "bigdata",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-engineering",
+                  "data-exploration",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipelines",
+                  "data-platform",
+                  "data-profiling",
+                  "data-quality",
+                  "data-science",
+                  "datacatalog",
+                  "lineage",
+                  "metadata",
+                  "metadata-management",
+                  "observability",
+                  "oss"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -721,12 +1539,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+                "homepage": "https://open-metadata.org",
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T07:03:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:56:56Z",
+                "open_issues": 833,
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 15007
+                "stars": 15022,
+                "topics": [
+                  "context",
+                  "context-layer",
+                  "data-catalog",
+                  "data-collaboration",
+                  "data-contracts",
+                  "data-discovery",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "datadiscovery",
+                  "dataquality",
+                  "mcp",
+                  "mcp-server",
+                  "metadata",
+                  "metadata-management",
+                  "ontologies",
+                  "ontologies-api",
+                  "semantics"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -737,12 +1581,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+                "homepage": "https://www.amundsen.io/amundsen/",
                 "id": 186647681,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T19:59:18Z",
+                "open_issues": 66,
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4783
+                "stars": 4783,
+                "topics": [
+                  "amundsen",
+                  "data-catalog",
+                  "data-discovery",
+                  "linuxfoundation",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -753,12 +1608,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Context Platform for your Data and AI Stack",
+                "homepage": "https://datahub.com",
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:36:50Z",
+                "open_issues": 1265,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12600
+                "stars": 12608,
+                "topics": [
+                  "agent-platform",
+                  "context-management",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-governance",
+                  "data-observability",
+                  "datahub",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -769,12 +1638,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect, aggregate, and visualize a data ecosystem's metadata",
+                "homepage": "https://marquezproject.ai",
                 "id": 139907613,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:51:39Z",
+                "open_issues": 250,
                 "owner": "MarquezProject",
                 "repo": "marquez",
-                "stars": 2268
+                "stars": 2268,
+                "topics": [
+                  "data-dictionary",
+                  "data-discovery",
+                  "data-ecosystem-metadata",
+                  "data-governance",
+                  "data-lineage",
+                  "data-ops",
+                  "data-provenance",
+                  "marquez",
+                  "metadata",
+                  "metadata-service"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -785,12 +1670,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Contracts engine for the modern data stack. https://www.soda.io",
+                "homepage": "https://go.soda.io/core-docs",
                 "id": 321458274,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:14:50Z",
+                "open_issues": 198,
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2419
+                "stars": 2420,
+                "topics": [
+                  "data-contracts",
+                  "data-engineering",
+                  "data-governance",
+                  "data-monitoring",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "data-quality-checks",
+                  "data-quality-monitoring",
+                  "data-quality-testing",
+                  "data-reliability",
+                  "data-testing",
+                  "data-unit-tests",
+                  "data-validation",
+                  "dataquality",
+                  "datatesting",
+                  "dbt",
+                  "pipeline-testing",
+                  "python",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -801,12 +1712,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                "homepage": "https://www.elementary-data.com/",
                 "id": 401275197,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:09:27Z",
+                "open_issues": 24,
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2400
+                "stars": 2400,
+                "topics": [
+                  "analytics-engineer",
+                  "bigquery",
+                  "data-analysis",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipeline",
+                  "data-pipelines",
+                  "data-reliability",
+                  "data-warehouse",
+                  "dataops",
+                  "dbt",
+                  "dbt-artifacts",
+                  "dbt-packages",
+                  "lineage",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -817,12 +1751,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Egeria core",
+                "homepage": "https://egeria-project.org",
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T21:20:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:05:58Z",
+                "open_issues": 40,
                 "owner": "odpi",
                 "repo": "egeria",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "data-engineering",
+                  "data-governance",
+                  "egeria",
+                  "governance",
+                  "hacktoberfest",
+                  "java",
+                  "linux-foundation",
+                  "metadata-management",
+                  "odpi",
+                  "odpi-egeria"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -833,12 +1783,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A federated, open-source data catalog for all your big data and small data",
+                "homepage": "https://magda.io",
                 "id": 66343967,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T03:21:19Z",
+                "open_issues": 385,
                 "owner": "magda-io",
                 "repo": "magda",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "kubernetes",
+                  "nodejs",
+                  "open-data",
+                  "opensearch",
+                  "postgresql",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -849,12 +1811,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond",
+                "homepage": "https://atlas.apache.org",
                 "id": 98013453,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T05:46:11Z",
+                "open_issues": 157,
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2138
+                "stars": 2138,
+                "topics": [
+                  "apache",
+                  "atlas",
+                  "docker",
+                  "graphdb",
+                  "java",
+                  "javascript",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -865,12 +1840,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.grai.io",
                 "id": 501725302,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-01-30T20:28:25Z",
+                "open_issues": 51,
                 "owner": "grai-io",
                 "repo": "grai-core",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "data",
+                  "data-lineage",
+                  "data-science",
+                  "dataengineering",
+                  "datalineage",
+                  "dbt",
+                  "django",
+                  "fivetran",
+                  "hacktoberfest",
+                  "mssql",
+                  "mysql",
+                  "open-source",
+                  "parquet",
+                  "postgresql",
+                  "python",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -881,12 +1879,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+                "homepage": "https://ckan.org/",
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:26:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:40:10Z",
+                "open_issues": 836,
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5106
+                "stars": 5106,
+                "topics": [
+                  "api",
+                  "catalog",
+                  "ckan",
+                  "ckanext",
+                  "data",
+                  "digitalpublicgoods",
+                  "dpg",
+                  "open-data",
+                  "python",
+                  "sdg16"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -897,12 +1911,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+                "homepage": "https://hamilton.apache.org/",
                 "id": 605682921,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T04:38:48Z",
+                "open_issues": 156,
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2580
+                "stars": 2582,
+                "topics": [
+                  "dag",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "dataframe",
+                  "etl",
+                  "etl-framework",
+                  "etl-pipeline",
+                  "feature-engineering",
+                  "hacktoberfest",
+                  "lineage",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "orchestration",
+                  "pandas",
+                  "python",
+                  "rag",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -924,12 +1963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remote harvesting extension for CKAN",
+            "homepage": null,
             "id": 2890627,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T08:09:40Z",
+            "open_issues": 119,
             "owner": "ckan",
             "repo": "ckanext-harvest",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         },
@@ -940,12 +1984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CKAN QA Extension",
+            "homepage": null,
             "id": 2113038,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-02T13:21:50Z",
+            "open_issues": 28,
             "owner": "ckan",
             "repo": "ckanext-qa",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         },
@@ -956,12 +2005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Archive CKAN resources",
+            "homepage": null,
             "id": 2511252,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-02T13:12:56Z",
+            "open_issues": 23,
             "owner": "ckan",
             "repo": "ckanext-archiver",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         },
@@ -972,12 +2026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Standard for lineage metadata collection",
+            "homepage": "http://openlineage.io",
             "id": 306977038,
             "language": "Java",
-            "last_commit": "2026-08-26T10:14:30Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T11:27:29Z",
+            "open_issues": 349,
             "owner": "OpenLineage",
             "repo": "OpenLineage",
-            "stars": 2629
+            "stars": 2630,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         },
@@ -988,12 +2047,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ODD Specification is a universal open standard for collecting metadata. ",
+            "homepage": null,
             "id": 321964345,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-06-18T17:57:05Z",
+            "open_issues": 12,
             "owner": "opendatadiscovery",
             "repo": "opendatadiscovery-specification",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "api",
+              "big-data",
+              "big-data-platform",
+              "data-discovery",
+              "data-engineering",
+              "data-governance",
+              "data-mesh",
+              "data-platform",
+              "metadata",
+              "metadata-management",
+              "metadata-parser",
+              "open-source",
+              "opensource",
+              "spec",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         },
@@ -1004,12 +2084,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The JSON Schema specification",
+            "homepage": "http://json-schema.org/",
             "id": 37983912,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T19:10:22Z",
+            "open_issues": 69,
             "owner": "json-schema-org",
             "repo": "json-schema-spec",
-            "stars": 5130
+            "stars": 5130,
+            "topics": [
+              "api-documentation",
+              "json",
+              "json-schema",
+              "jsonschema",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         },
@@ -1020,12 +2111,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.grai.io",
             "id": 501725302,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-01-30T20:28:25Z",
+            "open_issues": 51,
             "owner": "grai-io",
             "repo": "grai-core",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "data",
+              "data-lineage",
+              "data-science",
+              "dataengineering",
+              "datalineage",
+              "dbt",
+              "django",
+              "fivetran",
+              "hacktoberfest",
+              "mssql",
+              "mysql",
+              "open-source",
+              "parquet",
+              "postgresql",
+              "python",
+              "redshift",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         },
@@ -1036,12 +2150,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+            "homepage": "https://hamilton.apache.org/",
             "id": 605682921,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T04:38:48Z",
+            "open_issues": 156,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2580
+            "stars": 2582,
+            "topics": [
+              "dag",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "dataframe",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "feature-engineering",
+              "hacktoberfest",
+              "lineage",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "pandas",
+              "python",
+              "rag",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T07:03:28.588Z"
         }
@@ -1060,12 +2199,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+                "homepage": "https://www.amundsen.io/amundsen/",
                 "id": 186647681,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T19:59:18Z",
+                "open_issues": 66,
                 "owner": "amundsen-io",
                 "repo": "amundsen",
-                "stars": 4783
+                "stars": 4783,
+                "topics": [
+                  "amundsen",
+                  "data-catalog",
+                  "data-discovery",
+                  "linuxfoundation",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1083,12 +2233,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Context Platform for your Data and AI Stack",
+                "homepage": "https://datahub.com",
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:36:50Z",
+                "open_issues": 1265,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12600
+                "stars": 12608,
+                "topics": [
+                  "agent-platform",
+                  "context-management",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-governance",
+                  "data-observability",
+                  "datahub",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1106,12 +2270,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect, aggregate, and visualize a data ecosystem's metadata",
+                "homepage": "https://marquezproject.ai",
                 "id": 139907613,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:51:39Z",
+                "open_issues": 250,
                 "owner": "MarquezProject",
                 "repo": "marquez",
-                "stars": 2268
+                "stars": 2268,
+                "topics": [
+                  "data-dictionary",
+                  "data-discovery",
+                  "data-ecosystem-metadata",
+                  "data-governance",
+                  "data-lineage",
+                  "data-ops",
+                  "data-provenance",
+                  "marquez",
+                  "metadata",
+                  "metadata-service"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -1122,12 +2302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Standard for lineage metadata collection",
+                "homepage": "http://openlineage.io",
                 "id": 306977038,
                 "language": "Java",
-                "last_commit": "2026-08-26T10:14:30Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T11:27:29Z",
+                "open_issues": 349,
                 "owner": "OpenLineage",
                 "repo": "OpenLineage",
-                "stars": 2629
+                "stars": 2630,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1145,12 +2330,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond",
+                "homepage": "https://atlas.apache.org",
                 "id": 98013453,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T05:46:11Z",
+                "open_issues": 157,
                 "owner": "apache",
                 "repo": "atlas",
-                "stars": 2138
+                "stars": 2138,
+                "topics": [
+                  "apache",
+                  "atlas",
+                  "docker",
+                  "graphdb",
+                  "java",
+                  "javascript",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1168,12 +2366,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+                "homepage": "https://ckan.org/",
                 "id": 2750721,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:26:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:40:10Z",
+                "open_issues": 836,
                 "owner": "ckan",
                 "repo": "ckan",
-                "stars": 5106
+                "stars": 5106,
+                "topics": [
+                  "api",
+                  "catalog",
+                  "ckan",
+                  "ckanext",
+                  "data",
+                  "digitalpublicgoods",
+                  "dpg",
+                  "open-data",
+                  "python",
+                  "sdg16"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1191,12 +2405,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A federated, open-source data catalog for all your big data and small data",
+                "homepage": "https://magda.io",
                 "id": 66343967,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T03:21:19Z",
+                "open_issues": 385,
                 "owner": "magda-io",
                 "repo": "magda",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "kubernetes",
+                  "nodejs",
+                  "open-data",
+                  "opensearch",
+                  "postgresql",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1214,12 +2440,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.",
+                "homepage": "https://opendatadiscovery.org",
                 "id": 383922649,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T09:16:25Z",
+                "open_issues": 125,
                 "owner": "opendatadiscovery",
                 "repo": "odd-platform",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "alerting",
+                  "bigdata",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-engineering",
+                  "data-exploration",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipelines",
+                  "data-platform",
+                  "data-profiling",
+                  "data-quality",
+                  "data-science",
+                  "datacatalog",
+                  "lineage",
+                  "metadata",
+                  "metadata-management",
+                  "observability",
+                  "oss"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1237,12 +2489,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+                "homepage": "https://open-metadata.org",
                 "id": 391740664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T07:03:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:56:56Z",
+                "open_issues": 833,
                 "owner": "open-metadata",
                 "repo": "OpenMetadata",
-                "stars": 15007
+                "stars": 15022,
+                "topics": [
+                  "context",
+                  "context-layer",
+                  "data-catalog",
+                  "data-collaboration",
+                  "data-contracts",
+                  "data-discovery",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "datadiscovery",
+                  "dataquality",
+                  "mcp",
+                  "mcp-server",
+                  "metadata",
+                  "metadata-management",
+                  "ontologies",
+                  "ontologies-api",
+                  "semantics"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1260,12 +2538,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                "homepage": "https://www.elementary-data.com/",
                 "id": 401275197,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:09:27Z",
+                "open_issues": 24,
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2400
+                "stars": 2400,
+                "topics": [
+                  "analytics-engineer",
+                  "bigquery",
+                  "data-analysis",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipeline",
+                  "data-pipelines",
+                  "data-reliability",
+                  "data-warehouse",
+                  "dataops",
+                  "dbt",
+                  "dbt-artifacts",
+                  "dbt-packages",
+                  "lineage",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1283,12 +2584,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+                "homepage": "https://gravitino.apache.org",
                 "id": 631431061,
                 "language": "Java",
-                "last_commit": "2026-08-28T06:27:32Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:02:44Z",
+                "open_issues": 1056,
                 "owner": "apache",
                 "repo": "gravitino",
-                "stars": 3188
+                "stars": 3189,
+                "topics": [
+                  "ai-catalog",
+                  "data-catalog",
+                  "datalake",
+                  "federated-query",
+                  "lakehouse",
+                  "metadata",
+                  "metalake",
+                  "model-catalog",
+                  "opendatacatalog",
+                  "skycomputing",
+                  "stratosphere"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1306,12 +2624,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Contracts engine for the modern data stack. https://www.soda.io",
+                "homepage": "https://go.soda.io/core-docs",
                 "id": 321458274,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:14:50Z",
+                "open_issues": 198,
                 "owner": "sodadata",
                 "repo": "soda-core",
-                "stars": 2419
+                "stars": 2420,
+                "topics": [
+                  "data-contracts",
+                  "data-engineering",
+                  "data-governance",
+                  "data-monitoring",
+                  "data-observability",
+                  "data-profiling",
+                  "data-quality",
+                  "data-quality-checks",
+                  "data-quality-monitoring",
+                  "data-quality-testing",
+                  "data-reliability",
+                  "data-testing",
+                  "data-unit-tests",
+                  "data-validation",
+                  "dataquality",
+                  "datatesting",
+                  "dbt",
+                  "pipeline-testing",
+                  "python",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1329,12 +2673,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.grai.io",
                 "id": 501725302,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-01-30T20:28:25Z",
+                "open_issues": 51,
                 "owner": "grai-io",
                 "repo": "grai-core",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "data",
+                  "data-lineage",
+                  "data-science",
+                  "dataengineering",
+                  "datalineage",
+                  "dbt",
+                  "django",
+                  "fivetran",
+                  "hacktoberfest",
+                  "mssql",
+                  "mysql",
+                  "open-source",
+                  "parquet",
+                  "postgresql",
+                  "python",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -1345,12 +2712,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.grai.io",
                 "id": 501725302,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-01-30T20:28:25Z",
+                "open_issues": 51,
                 "owner": "grai-io",
                 "repo": "grai-core",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "data",
+                  "data-lineage",
+                  "data-science",
+                  "dataengineering",
+                  "datalineage",
+                  "dbt",
+                  "django",
+                  "fivetran",
+                  "hacktoberfest",
+                  "mssql",
+                  "mysql",
+                  "open-source",
+                  "parquet",
+                  "postgresql",
+                  "python",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1368,12 +2758,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+                "homepage": "https://hamilton.apache.org/",
                 "id": 605682921,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T04:38:48Z",
+                "open_issues": 156,
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2580
+                "stars": 2582,
+                "topics": [
+                  "dag",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "dataframe",
+                  "etl",
+                  "etl-framework",
+                  "etl-pipeline",
+                  "feature-engineering",
+                  "hacktoberfest",
+                  "lineage",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "orchestration",
+                  "pandas",
+                  "python",
+                  "rag",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             },
@@ -1384,12 +2799,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+                "homepage": "https://hamilton.apache.org/",
                 "id": 605682921,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T04:38:48Z",
+                "open_issues": 156,
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2580
+                "stars": 2582,
+                "topics": [
+                  "dag",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "dataframe",
+                  "etl",
+                  "etl-framework",
+                  "etl-pipeline",
+                  "feature-engineering",
+                  "hacktoberfest",
+                  "lineage",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "orchestration",
+                  "pandas",
+                  "python",
+                  "rag",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1407,12 +2847,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Egeria core",
+                "homepage": "https://egeria-project.org",
                 "id": 135579677,
                 "language": "Java",
-                "last_commit": "2026-08-27T21:20:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:05:58Z",
+                "open_issues": 40,
                 "owner": "odpi",
                 "repo": "egeria",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "data-engineering",
+                  "data-governance",
+                  "egeria",
+                  "governance",
+                  "hacktoberfest",
+                  "java",
+                  "linux-foundation",
+                  "metadata-management",
+                  "odpi",
+                  "odpi-egeria"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1436,12 +2892,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Context Platform for your Data and AI Stack",
+                "homepage": "https://datahub.com",
                 "id": 46398090,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:36:50Z",
+                "open_issues": 1265,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12600
+                "stars": 12608,
+                "topics": [
+                  "agent-platform",
+                  "context-management",
+                  "data-catalog",
+                  "data-discovery",
+                  "data-governance",
+                  "data-observability",
+                  "datahub",
+                  "metadata"
+                ]
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1459,12 +2929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DBND is an agile pipeline framework that helps data engineering teams track and orchestrate their data processes.",
+                "homepage": "https://databand.ai/",
                 "id": 231361064,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-04T12:29:08Z",
+                "open_issues": 27,
                 "owner": "databand-ai",
                 "repo": "dbnd",
-                "stars": 267
+                "stars": 267,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1482,12 +2957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples, tutorials and other information about watsonx.data",
+                "homepage": null,
                 "id": 680006477,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T01:16:20Z",
+                "open_issues": 6,
                 "owner": "IBM",
                 "repo": "watsonx-data",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:28.588Z"
             }
@@ -1501,15 +2981,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:03:28.588Z",
+    "last_updated": "2026-08-29T04:30:36.255Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📙 Awesome Data Catalogs and Observability Platforms. ",
+      "homepage": null,
       "id": 385832397,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-08-14T14:10:59Z",
+      "open_issues": 15,
       "owner": "opendatadiscovery",
       "repo": "awesome-data-catalogs",
-      "stars": 1063
+      "stars": 1063,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "big-data",
+        "data-catalog",
+        "data-discovery",
+        "data-engineering",
+        "data-quality",
+        "datacatalog",
+        "datadiscovery",
+        "dataops",
+        "metadata",
+        "metadata-management",
+        "ml",
+        "observability",
+        "open-source",
+        "opendata",
+        "opensource",
+        "oss"
+      ]
     },
     "original_repository_sha": "35af5ab0779df32623a219ef73f69e15440ce742",
     "enhanced_repository": "enhansome/enhansome-data-catalogs",
